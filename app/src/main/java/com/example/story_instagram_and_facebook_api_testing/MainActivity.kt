@@ -1,4 +1,4 @@
-package com.example.story_instagram_and_facebook_api_testing
+package com.example.Story_facebook_instagram_api_android_testing
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
