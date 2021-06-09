@@ -7,6 +7,9 @@
     tools:context=".MainActivity">
 
     <!-- Button added in the activity -->
+
+    <!-- Button added in the activity -->
+
     <Button
         android:id="@+id/button1"
         android:layout_width="wrap_content"
@@ -20,9 +23,9 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.405" />
 
-    <!-- Button added in the activity -->
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
@@ -36,7 +39,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.589" />
 
     <TextView
         android:layout_width="wrap_content"
