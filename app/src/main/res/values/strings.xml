@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Story_instagram_and_facebook_api_testing</string>
+
+    <string name="btn1">Share on Facebook</string>
+    <string name="message_btn1">Let\'s try sharing</string>
+
+    <string name="btn2">Share on Facebook</string>
+    <string name="message_btn2">Let\'s try sharing</string>
+</resources>
