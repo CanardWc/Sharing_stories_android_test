@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Story_instagram_and_facebook_api_testing"
