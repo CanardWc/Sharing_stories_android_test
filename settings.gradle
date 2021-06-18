@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Sharing_stories_android_test"
